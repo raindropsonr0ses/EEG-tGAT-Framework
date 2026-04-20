@@ -11,6 +11,8 @@ This repository implements EEG-tGAT, a spatiotemporal graph attention framework 
 
 The architecture integrates temporal feature extraction with graph attention mechanisms to model structured EEG signals as dynamic relational data.
 
+This work was accepted in [GCON 2026](https://arxiv.org/abs/2604.10149) (IEEE Guwahati Subsection)
+
 ---
 
 ## Methodology
